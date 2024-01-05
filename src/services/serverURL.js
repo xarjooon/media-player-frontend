@@ -1,0 +1,1 @@
+ export const serverURL = 'https://dummy-backend-json-for-media-player-yo3k.onrender.com';
